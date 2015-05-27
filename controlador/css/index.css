@@ -1,0 +1,32 @@
+.logo{
+    text-align: center;
+}
+
+#icon{
+    width: 40%;
+    height: 40%;
+    
+}
+
+#title{
+    color: #FFFFFF;
+    font-family: "Arial Black";
+}
+
+
+
+.grad{
+   
+    background: -webkit-linear-gradient(left top, #707070, #FFFFFF  , #000000); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #707070 , #FFFFFF , #000000); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #707070, #FFFFFF , #000000); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #707070,#FFFFFF , #000000); /* Standard syntax (must be last) */
+   
+    
+}
+
+.textblack{
+ 
+   color: #000000;
+   text-align: center;
+}
